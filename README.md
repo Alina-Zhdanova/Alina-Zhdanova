@@ -4,22 +4,22 @@
 
 Я имею сильную теоретическую базу и практический опыт в **полном цикле разработки**: от проектирования архитектуры (ООП, SOLID) до деплоя готового приложения. Фокусируюсь на создании масштабируемых и надежных систем на **Spring Boot**.
 
+## 🔧 Технологии и инструменты
 
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![](https://img.shields.io/badge/HTTP-5695DA?style=flat&logo=http&logoColor=white)
+![](https://img.shields.io/badge/REST_API-000000?style=flat&logo=jsonplaceholder&logoColor=white)
 
-
-
-### 🚀 Junior Java Backend Developer | Разработка на Spring Boot
-
-### 💻 Мой Технологический Стек
-
-| Категория | Технологии |
-| :--- | :--- |
-| **Язык / Фреймворки** | `Java` `Spring Boot` `Spring MVC` `Hibernate/JPA` |
-| **Базы данных** | `PostgreSQL` `MySQL` `SQL` `JDBC/ORM` |
-| **Инструменты / DevOps** | `Git` `Docker` `Gradle` `CI/CD (GitHub Actions)` `PaaS` |
-| **Архитектура / API** | `REST API` `Микросервисы` `MVC` `RabbitMQ` `Swagger` |
-| **Качество кода** | `JUnit` `TDD` `Mockito` `SOLID` `Clean Code` |
----
 
 ### 💡 Опыт и Принципы
 
